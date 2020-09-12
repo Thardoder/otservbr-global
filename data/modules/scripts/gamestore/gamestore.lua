@@ -2073,7 +2073,7 @@ GameStore.Categories = {
         },
         {
           icons = { "Outfit_Retro_Citizen_Male.png", "Outfit_Retro_Citizen_Female.png" },
-          name = "Retro Citizen",
+          name = "Retro Citizen Outfit",
           price = 870,
           sexId = {female = 975,  male = 974},
           description = "{character}\n{info} colours can be changed using the Outfit dialog\n\n<i>Do you still remember your first stroll through the streets of Thais? For old times' sake, walk the paths of Nostalgia as a Retro Citizen!</i>",
@@ -2081,7 +2081,7 @@ GameStore.Categories = {
         },
         {
           icons = { "Outfit_Retro_Hunter_Male.png", "Outfit_Retro_Hunter_Female.png" },
-          name = "Retro Hunter",
+          name = "Retro Hunter Outfit",
           price = 870,
           sexId = {female = 973,  male = 972},
           description = "{character}\n{info} colours can be changed using the Outfit dialog\n\n<i>Whenever you pick up your bow and spears, you walk down memory lane and think of your early days? Treat yourself with the fashionable Retro Hunter outfit and hunt some good old monsters from your childhood.</i>",
@@ -2089,7 +2089,7 @@ GameStore.Categories = {
         },
         {
           icons = { "Outfit_Retro_Knight_Male.png", "Outfit_Retro_Knight_Female.png" },
-          name = "Retro Knight",
+          name = "Retro Knight Outfit",
           price = 870,
           sexId = {female = 971,  male = 970},
           description = "{character}\n{info} colours can be changed using the Outfit dialog\n\n<i>Who needs a fancy looking sword with bling-bling and ornaments? Back in the days, we survived without such unnecessary accessories! Time to show those younkers what a Retro Knight is made of.</i>",
@@ -2097,7 +2097,7 @@ GameStore.Categories = {
         },
         {
           icons = { "Outfit_Retro_Mage_Male.png", "Outfit_Retro_Mage_Female.png" },
-          name = "Retro Wizzard",
+          name = "Retro Mage Outfit",
           price = 870,
           sexId = {female = 969, male = 968},
           description = "{character}\n{info} colours can be changed using the Outfit dialog\n\n<i>Dress up as a Retro Mage and you will always cut a fine figure on the battleground while eliminating your enemies with your magical powers the old-fashioned way.</i>",
@@ -2105,7 +2105,7 @@ GameStore.Categories = {
         },
         {
           icons = { "Outfit_Retro_Nobleman_Male.png", "Outfit_Retro_Nobleman_Female.png" },
-          name = "Retro Noblewoman",
+          name = "Retro Noble(wo)man Outfit",
           price = 870,
           sexId = { female = 967, male = 966},
           description = "{character}\n{info} colours can be changed using the Outfit dialog\n\n<i>King Tibianus has invited you to a summer ball and you have nothing to wear for this special event? Do not worry, the Retro Noble(wo)man outfit makes you a real eye catcher on every festive occasion.</i>",
@@ -2113,7 +2113,7 @@ GameStore.Categories = {
         },
         {
           icons = { "Outfit_Retro_Summoner_Male.png", "Outfit_Retro_Summoner_Female.png" },
-          name = "Retro Summoner",
+          name = "Retro Summoner Outfit",
           price = 870,
           sexId = {female = 965, male = 964},
           description = "{character}\n{info} colours can be changed using the Outfit dialog\n\n<i>While the Retro Mage usually throws runes and mighty spells directly at the enemies, the Retro Summoner outfit might be the better choice for Tibians that prefer to send mighty summons to the battlefield to keep their enemies at distance.</i>",
@@ -2121,7 +2121,7 @@ GameStore.Categories = {
         },
         {
           icons = { "Outfit_Retro_Warrior_Male.png", "Outfit_Retro_Warrior_Female.png" },
-          name = "Retro Warrior",
+          name = "Retro Warrior Outfit",
           price = 870,
           sexId = {female = 963, male = 962},
           description = "{character}\n{info} colours can be changed using the Outfit dialog\n\n<i>You are fearless and strong as a behemoth but have problems finding the right outfit for your adventures? The Retro Warrior outfit is a must-have for all fashion-conscious old-school Tibians out there.</i>",
